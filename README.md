@@ -88,12 +88,15 @@ employee-attrition/
 │   └── documentation/
 │       └── Employee_Attrition_Description.csv  # Descrizione delle variabili
 │
-├── figures/                                 # Grafici e visualizzazioni esportati
-│
 ├── notebooks/
-│   └── Employee_Attrition_Analisi e visualizzazione.ipynb  # Notebook principale
+│   └── Employee_Attrition_Analisi e visualizzazione.ipynb  # Notebook principale con analisi e modelli
 │
-├── report/                                  # Report scientifico finale (LaTeX/PDF)
+├── report/                                 
+│   ├── Analisi predittiva dell'abbandono aziendale.pdf     # Report scientifico finale (LaTeX/PDF)
+│   ├── Analisi predittiva dell'abbandono aziendale/
+│   │   └── ....png   # Visualizzazioni estratte dall'analisi
+│   │   └── relazione.tex   # Relazione finale
+│       └── riferimenti.bib   # Elenco riferimenti
 │
 └── README.md
 ```
