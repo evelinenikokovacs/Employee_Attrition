@@ -216,7 +216,7 @@ In conformità con le linee guida accademiche sulla trasparenza nell'uso di stru
 
 | Membro | Strumento Utilizzato | Data | Ambito di Utilizzo |
 | --- | --- | :---: | --- |
-| **Amoroso Giovanni** | Gemini - ChatGPT | A.A. 2025/2026 | Supporto nella formattazione e generazione di alcune **tabelle** all'interno del report scientifico finale in LaTeX |
+| **Amoroso Giovanni** | Gemini - ChatGPT | 27 giugno 2026 | Supporto nella formattazione e generazione di alcune **tabelle** all'interno del report scientifico finale in LaTeX |
 | **Kovacs Evelin Eniko** | ChatGPT | 23 giugno 2026 | Ottimizzazione di alcune porzioni di **codice Python** per la creazione delle visualizzazioni nel notebook |
 | **Kovacs Evelin Eniko** | Claude - Sonnet 4.6 | 29 giugno 2026 | Ottimizzazione di alcune porzioni di testo in README.md |
 | **Guarnieri Federico** | — | — | Nessun utilizzo dichiarato |
