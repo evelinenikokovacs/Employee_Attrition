@@ -219,7 +219,7 @@ In conformità con le linee guida accademiche sulla trasparenza nell'uso di stru
 | **Amoroso Giovanni** | Gemini - ChatGPT | 27 giugno 2026 | Supporto nella formattazione e generazione di alcune **tabelle** all'interno del report scientifico finale in LaTeX |
 | **Kovacs Evelin Eniko** | ChatGPT | 23 giugno 2026 | Ottimizzazione di alcune porzioni di **codice Python** per la creazione delle visualizzazioni nel notebook |
 | **Kovacs Evelin Eniko** | Claude - Sonnet 4.6 | 29 giugno 2026 | Ottimizzazione di alcune porzioni di testo in README.md |
-| **Guarnieri Federico** | — | — | Nessun utilizzo dichiarato |
+| **Guarnieri Federico** | Claude - Opus 4.8 | 25/26 giugno 2026 | Supporto nell'impostazione dei modelli di Machine Learning nel notebook |
 
 > Tutto il codice generato con supporto AI è stato **revisionato, compreso e validato** dai rispettivi autori prima dell'integrazione nel progetto. La responsabilità dei contenuti rimane interamente in capo ai membri del gruppo.
 
