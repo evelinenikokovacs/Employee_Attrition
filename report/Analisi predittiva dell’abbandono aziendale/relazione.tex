@@ -378,7 +378,7 @@ Pur avendo un'accuracy dell'84\% ($0.839$), in linea con gli altri modelli, il k
 L'analisi della matrice di confusione e del relativo classification report in Figura~\ref{fig:knn_results} mette in luce la criticità geometrica dell'algoritmo in presenza di \textit{class imbalance}:
 \begin{itemize}
     \item \textbf{Schiacciamento sulla classe maggioritaria:} Il modello assegna quasi la totalità delle istanze alla classe "Resta", totalizzando ben \textbf{365} Veri Negativi e commettendo solo \textbf{5} Falsi Positivi. Questo comportamento pigro (\textit{lazy}) genera un recall fittizio del $0.99$ sulla stabilità aziendale.
-    \item \textbf{Incapacità di intercettare il turnover:} A fronte di 71 dipendenti che hanno realmente abbandonato l'azienda (supporto della classe "Esce"), il $k$-NN ne individua correttamente soltanto \textbf{5} (Veri Positivi), commettendo ben \textbf{66} errori di Falso Negativo. Poiché nello spazio multidimensionale scalato i vicini più prossimi appartengono quasi sempre alla classe dominante, la retta di decisione locale fallisce nel segregare i cluster a rischio, confermando l'inadeguatezza dell'approccio senza un preventivo bilanciamento del dataset.
+    \item \textbf{Incapacità di intercettare il turnover:} A fronte di 71 dipendenti che hanno realmente abbandonato l'azienda (supporto della classe "Esce"), il $k$-NN ne individua correttamente soltanto \textbf{5} (Veri Positivi), commettendo ben \textbf{66} errori di Falso Negativo. 
 \end{itemize}
 
 
